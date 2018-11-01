@@ -1,0 +1,361 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 239744 12720 ?        Ss   Okt12   1:19 /usr/lib/systemd/systemd --switched-root --system --deserialize 32
+root         2  0.0  0.0      0     0 ?        S    Okt12   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   Okt12   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   Okt12   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/0:0H-kb]
+root         8  0.0  0.0      0     0 ?        I<   Okt12   0:00 [mm_percpu_wq]
+root         9  0.0  0.0      0     0 ?        S    Okt12   0:06 [ksoftirqd/0]
+root        10  0.0  0.0      0     0 ?        I    Okt12   4:09 [rcu_sched]
+root        11  0.0  0.0      0     0 ?        I    Okt12   0:00 [rcu_bh]
+root        12  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/0]
+root        13  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/0]
+root        14  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/1]
+root        17  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/1]
+root        18  0.0  0.0      0     0 ?        S    Okt12   0:01 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/1:0H-kb]
+root        21  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/2]
+root        22  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/2]
+root        23  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/2]
+root        24  0.0  0.0      0     0 ?        S    Okt12   0:00 [ksoftirqd/2]
+root        26  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/2:0H-kb]
+root        27  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/3]
+root        28  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/3]
+root        29  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/3]
+root        30  0.0  0.0      0     0 ?        S    Okt12   0:01 [ksoftirqd/3]
+root        32  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/3:0H-kb]
+root        33  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/4]
+root        34  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/4]
+root        35  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/4]
+root        36  0.0  0.0      0     0 ?        S    Okt12   0:00 [ksoftirqd/4]
+root        38  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/4:0H-kb]
+root        39  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/5]
+root        40  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/5]
+root        41  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/5]
+root        42  0.0  0.0      0     0 ?        S    Okt12   0:00 [ksoftirqd/5]
+root        44  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/5:0H-kb]
+root        45  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/6]
+root        46  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/6]
+root        47  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/6]
+root        48  0.0  0.0      0     0 ?        S    Okt12   0:00 [ksoftirqd/6]
+root        50  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/6:0H-kb]
+root        51  0.0  0.0      0     0 ?        S    Okt12   0:00 [cpuhp/7]
+root        52  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdog/7]
+root        53  0.0  0.0      0     0 ?        S    Okt12   0:00 [migration/7]
+root        54  0.0  0.0      0     0 ?        S    Okt12   0:00 [ksoftirqd/7]
+root        56  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kworker/7:0H-kb]
+root        57  0.0  0.0      0     0 ?        S    Okt12   0:00 [kdevtmpfs]
+root        58  0.0  0.0      0     0 ?        I<   Okt12   0:00 [netns]
+root        59  0.0  0.0      0     0 ?        S    Okt12   0:00 [rcu_tasks_kthre]
+root        60  0.0  0.0      0     0 ?        S    Okt12   0:00 [kauditd]
+root        64  0.0  0.0      0     0 ?        S    Okt12   0:00 [oom_reaper]
+root        65  0.0  0.0      0     0 ?        I<   Okt12   0:00 [writeback]
+root        66  0.0  0.0      0     0 ?        S    Okt12   0:00 [kcompactd0]
+root        67  0.0  0.0      0     0 ?        SN   Okt12   0:00 [ksmd]
+root        68  0.0  0.0      0     0 ?        SN   Okt12   0:00 [khugepaged]
+root        69  0.0  0.0      0     0 ?        I<   Okt12   0:00 [crypto]
+root        70  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kintegrityd]
+root        71  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kblockd]
+root        74  0.0  0.0      0     0 ?        I<   Okt12   0:00 [ata_sff]
+root        75  0.0  0.0      0     0 ?        I<   Okt12   0:00 [md]
+root        76  0.0  0.0      0     0 ?        I<   Okt12   0:00 [edac-poller]
+root        77  0.0  0.0      0     0 ?        I<   Okt12   0:00 [devfreq_wq]
+root        78  0.0  0.0      0     0 ?        S    Okt12   0:00 [watchdogd]
+root        81  0.0  0.0      0     0 ?        S    Okt12   0:02 [kswapd0]
+root       136  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kthrotld]
+root       140  0.0  0.0      0     0 ?        I<   Okt12   0:00 [acpi_thermal_pm]
+root       142  0.0  0.0      0     0 ?        I<   Okt12   0:00 [dm_bufio_cache]
+root       143  0.0  0.0      0     0 ?        I<   Okt12   0:00 [ipv6_addrconf]
+root       149  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kstrp]
+root       449  0.0  0.0      0     0 ?        I<   Okt12   0:00 [nvme-wq]
+root       450  0.0  0.0      0     0 ?        I<   Okt12   0:00 [nvme-reset-wq]
+root       453  0.0  0.0      0     0 ?        I<   Okt12   0:00 [nvme-delete-wq]
+root       506  0.0  0.0      0     0 ?        S    Okt12   1:53 [i915/signal:0]
+root       507  0.0  0.0      0     0 ?        S    Okt12   0:00 [i915/signal:1]
+root       508  0.0  0.0      0     0 ?        S    Okt12   0:00 [i915/signal:2]
+root       509  0.0  0.0      0     0 ?        S    Okt12   0:00 [i915/signal:6]
+root       569  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/1:1H-kb]
+groening  1541  0.1  0.9 1744420 305488 ?      Sl   Okt24  19:39 /usr/share/code/code --type=renderer --js-flags=--nolazy --disable-mojo-local-storage --no-sandbox --disable-features=ColorCorrectRendering --service-pipe-token=F9FFF9702E59B7503959E1758C5909A0 --lang=de --app-path=/usr/share/code/resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#1e1e1e --disable-blink-features=Auxclick --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=F9FFF9702E59B7503959E1758C5909A0 --renderer-client-id=16 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+groening  1570  0.0  0.0 219216  6496 pts/1    Ss+  Okt24   0:01 /bin/bash
+groening  1606  0.0  0.3 1057144 113080 ?      Sl   Okt24   0:26 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap --type=extensionHost
+groening  1607  0.0  0.2 984184 71484 ?        Sl   Okt24   0:07 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap --type=watcherService
+root      1784  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kdmflush]
+root      1790  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kcryptd_io]
+root      1791  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kcryptd]
+root      1792  0.0  0.0      0     0 ?        S    Okt12   0:56 [dmcrypt_write]
+root      1853  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kdmflush]
+root      1863  0.0  0.0      0     0 ?        I<   Okt12   0:00 [kdmflush]
+root      1882  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/6:1H-kb]
+root      1883  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/4:1H-kb]
+root      1892  0.0  0.0      0     0 ?        S    Okt12   1:05 [jbd2/dm-1-8]
+root      1893  0.0  0.0      0     0 ?        I<   Okt12   0:00 [ext4-rsv-conver]
+root      1984  0.0  0.7 477884 233036 ?       Ss   Okt12   0:31 /usr/lib/systemd/systemd-journald
+root      2002  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/2:1H-kb]
+root      2013  0.0  0.0  96188  9288 ?        Ss   Okt12   0:04 /usr/lib/systemd/systemd-udevd
+root      2045  0.0  0.0      0     0 ?        I<   Okt12   0:00 [ktpacpid]
+root      2130  0.0  0.0      0     0 ?        I<   Okt12   0:00 [cfg80211]
+root      2134  0.0  0.0      0     0 ?        S    Okt12   5:50 [irq/157-iwlwifi]
+root      2378  0.0  0.0      0     0 ?        S<   Okt12   0:00 [loop0]
+root      2388  0.0  0.0      0     0 ?        S<   Okt12   0:00 [loop1]
+root      2395  0.0  0.0      0     0 ?        S    Okt12   0:00 [jbd2/nvme0n1p2-]
+root      2396  0.0  0.0      0     0 ?        I<   Okt12   0:00 [ext4-rsv-conver]
+root      2401  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/5:1H-kb]
+root      2402  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/7:1H-kb]
+root      2428  0.0  0.0  58692  2004 ?        S<sl Okt12   0:00 /sbin/auditd
+root      2448  0.0  0.0      0     0 ?        I<   Okt12   0:00 [rpciod]
+root      2449  0.0  0.0      0     0 ?        I<   Okt12   0:00 [xprtiod]
+root      2452  0.0  0.0  52640  5664 ?        Ss   Okt12   0:00 /usr/libexec/bluetooth/bluetoothd
+rtkit     2453  0.0  0.0 190872  3312 ?        SNsl Okt12   0:05 /usr/libexec/rtkit-daemon
+avahi     2454  0.0  0.0  55236  4400 ?        Ss   Okt12   1:33 avahi-daemon: running [linux.local]
+root      2455  0.0  0.0  98248  4848 ?        Ss   Okt12   1:49 /sbin/rngd -f
+root      2458  0.0  0.0 489752  6912 ?        Ssl  Okt12   0:00 /usr/libexec/accounts-daemon
+root      2460  0.0  0.0 491940  6968 ?        Ssl  Okt12   0:00 /usr/libexec/boltd
+dbus      2462  0.0  0.0  64672  7972 ?        Ssl  Okt12   2:52 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root      2464  0.0  0.1 446080 34128 ?        Ssl  Okt12   0:03 /usr/bin/python3 -Es /usr/sbin/firewalld --nofork --nopid
+root      2466  0.0  0.0  75216  5772 ?        Ss   Okt12   0:02 /usr/lib/systemd/systemd-machined
+avahi     2470  0.0  0.0  54576   392 ?        S    Okt12   0:00 avahi-daemon: chroot helper
+root      2471  0.0  0.0 517524 10796 ?        Ssl  Okt12   0:00 /usr/libexec/udisks2/udisksd
+root      2472  0.0  0.0  17480  1640 ?        SNs  Okt12   0:00 /usr/sbin/alsactl -s -n 19 -c -E ALSA_CONFIG_PATH=/etc/alsa/alsactl.conf --initfile=/lib/alsa/init/00main rdaemon
+root      2478  0.0  0.0  79624  8700 ?        Ss   Okt12   0:15 /usr/lib/systemd/systemd-logind
+root      2482  0.0  0.0   6504  1860 ?        Ss   Okt12   0:00 /usr/sbin/mcelog --ignorenodev --daemon --foreground
+root      2484  0.0  0.0 306432  3912 ?        Ssl  Okt12   0:00 /usr/sbin/gssproxy -D
+root      2486  0.0  0.0 417840  9816 ?        Ssl  Okt12   0:01 /usr/sbin/ModemManager
+root      2506  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/0:1H-kb]
+root      2537  0.0  0.0 545200 11128 ?        Ssl  Okt12   0:00 /usr/sbin/abrtd -d -s
+polkitd   2543  0.0  0.0 2540676 28048 ?       Ssl  Okt12   0:10 /usr/lib/polkit-1/polkitd --no-debug
+chrony    2548  0.0  0.0 105584  2528 ?        S    Okt12   0:04 /usr/sbin/chronyd
+root      2556  0.0  0.0      0     0 ?        I<   Okt12   0:01 [kworker/3:1H-kb]
+root      2592  0.0  0.0 463036 20676 ?        Ss   Okt12   0:01 /usr/bin/abrt-dump-journal-oops -fxtD
+root      2603  0.0  0.1 607352 64348 ?        Ss   Okt12   0:02 /usr/bin/abrt-dump-journal-xorg -fxtD
+root      2604  0.0  0.0 481520 13936 ?        Ss   Okt12   0:01 /usr/bin/abrt-dump-journal-core -D -T -f -e
+root      2910  0.0  0.0 1150008 21016 ?       Ssl  Okt12   2:56 /usr/sbin/NetworkManager --no-daemon
+root      2962  0.0  0.0 321448 10216 ?        Ss   Okt12   0:00 /usr/sbin/cupsd -l
+root      2965  0.0  0.1 1956016 39824 ?       Ssl  Okt12   0:02 /usr/sbin/libvirtd
+root      2980  0.0  0.0 227400  3512 ?        Ss   Okt12   0:01 /usr/sbin/crond -n
+root      2983  0.0  0.0  25992  2044 ?        Ss   Okt12   0:00 /usr/sbin/atd -f
+root      3980  0.0  0.0  59868  8500 ?        Ss   Okt12   0:15 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -u -s
+groening  4771  0.0  1.1 1700372 361148 ?      SLl  Okt29   1:15 /usr/share/atom/atom --type=renderer --enable-experimental-web-platform-features --no-sandbox --service-pipe-token=582413137581605CB8154EBE4214A92C --lang=de --app-path=/usr/share/atom/resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --disable-blink-features=Auxclick --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=582413137581605CB8154EBE4214A92C --renderer-client-id=8 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+groening  4860  0.0  0.6 1411408 209232 ?      Sl   Okt29   0:01 /usr/share/atom/atom --type=renderer --enable-experimental-web-platform-features --no-sandbox --service-pipe-token=A0872D23D5EFA5B6BC78FE0B97305FFD --lang=de --app-path=/usr/share/atom/resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=A0872D23D5EFA5B6BC78FE0B97305FFD --renderer-client-id=10 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+dnsmasq   4994  0.0  0.0  56560  2176 ?        S    Okt12   0:00 /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+root      4995  0.0  0.0  56532   412 ?        S    Okt12   0:00 /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+groening  6052  0.2  0.2 1121116 84176 tty2    SLl+ Okt24  34:31 keepassxc
+groening  6426  0.0  0.9 1658204 315460 ?      Sl   Okt29   0:46 /usr/share/atom/atom --type=renderer --enable-experimental-web-platform-features --no-sandbox --service-pipe-token=C6D6BEB545CD39EF32496401D7BC57A4 --lang=de --app-path=/usr/share/atom/resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --disable-blink-features=Auxclick --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=C6D6BEB545CD39EF32496401D7BC57A4 --renderer-client-id=12 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+groening  6500  0.0  0.6 1404752 208972 ?      Sl   Okt29   0:01 /usr/share/atom/atom --type=renderer --enable-experimental-web-platform-features --no-sandbox --service-pipe-token=F0785452F3BF02B4279C0D50E997D6AB --lang=de --app-path=/usr/share/atom/resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=F0785452F3BF02B4279C0D50E997D6AB --renderer-client-id=14 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+groening  7618  2.1  1.1 1709684 374444 tty2   SLl+ Okt25 231:08 /opt/google/chrome/chrome
+groening  7631  0.0  0.0 209084   668 tty2     S+   Okt25   0:00 cat
+groening  7632  0.0  0.0 209084   776 tty2     S+   Okt25   0:00 cat
+groening  7635  0.0  0.1 639536 57636 tty2     S+   Okt25   0:00 /opt/google/chrome/chrome --type=zygote
+groening  7636  0.0  0.0  26304  4084 tty2     S+   Okt25   0:00 /opt/google/chrome/nacl_helper
+groening  7639  0.0  0.0 639536 14972 tty2     S+   Okt25   0:10 /opt/google/chrome/chrome --type=zygote
+groening  7665  0.9  0.5 855748 177540 tty2    Sl+  Okt25  97:17 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=2900370144097600585,7632363654845637935,131072 --gpu-preferences=KAAAAAAAAACAAABAAQAAA AAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=8935578934611661329
+groening  7729  0.0  0.0 677940 15408 tty2     S+   Okt25   0:00 /opt/google/chrome/chrome --type=-broker                                                                                                                 AAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=8935578934611661329
+groening  7784  0.3  0.6 1233116 197768 tty2   Sl+  Okt25  34:32 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7786  0.0  0.2 915216 79392 tty2     Sl+  Okt25   0:07 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7890  0.0  0.3 961308 103480 tty2    Sl+  Okt25   0:48 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7910  0.2  0.4 1109004 161804 tty2   Sl+  Okt25  21:24 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7917  0.0  0.2 935768 92524 tty2     Sl+  Okt25   0:07 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7934  0.0  0.2 945944 90836 tty2     Sl+  Okt25   0:11 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7948  0.1  0.3 981564 103964 tty2    Sl+  Okt25  12:09 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7968  0.0  0.2 915216 77764 tty2     Sl+  Okt25   0:06 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7970  0.1  0.4 1020192 133200 tty2   Sl+  Okt25  13:59 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7980  0.0  0.2 915216 78192 tty2     Sl+  Okt25   0:06 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  7987  0.0  0.3 999552 129200 tty2    Sl+  Okt25   2:29 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  8000  0.0  0.2 919312 81804 tty2     Sl+  Okt25   0:06 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening  8086  0.0  0.0 88118636 29632 tty2   Sl+  Okt25   0:00 /opt/google/chrome/nacl_helper
+root      8103  0.0  2.3 1506040 775928 ?      Ssl  Okt24   3:10 /usr/libexec/packagekitd
+groening  9404  0.0  0.1 1000560 63580 tty2    Sl+  Okt25   1:24 pidgin
+groening 10174  0.0  0.2 1455868 89800 tty2    Sl+  13:10   0:02 gnome-control-center
+groening 10505  0.0  0.0 219352  6764 pts/6    Ss   13:16   0:00 bash
+root     10763  0.0  0.0 504424  8156 ?        Ssl  Okt12   0:00 /usr/sbin/gdm
+root     10768  0.0  0.0 485104  9996 ?        Sl   Okt12   0:00 gdm-session-worker [pam/gdm-launch-environment]
+gdm      10772  0.0  0.0  88376  8948 ?        Ss   Okt12   0:01 /usr/lib/systemd/systemd --user
+gdm      10774  0.0  0.0 148856  5300 ?        S    Okt12   0:00 (sd-pam)
+gdm      10779  0.0  0.0 1608104 11668 ?       Ssl  Okt12   0:01 /usr/bin/pulseaudio --daemonize=no
+gdm      10780  0.0  0.0 518820 10840 tty1     Ssl+ Okt12   0:00 /usr/libexec/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm      10782  0.0  0.0  61348  4700 ?        Ssl  Okt12   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm      10789  0.0  0.0 762984 13780 tty1     Sl+  Okt12   0:00 /usr/libexec/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm      10808  0.0  0.5 3883884 172776 tty1   Sl+  Okt12   4:32 /usr/bin/gnome-shell
+root     10821  0.0  0.0 522372  9716 ?        Ssl  Okt12   0:31 /usr/libexec/upowerd
+gdm      11302  0.0  0.1 841852 53712 tty1     Sl+  Okt12   0:00 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm      11417  0.0  0.0 349664  6104 ?        Ssl  Okt12   0:00 /usr/libexec/at-spi-bus-launcher
+gdm      11422  0.0  0.0  60844  4244 ?        Sl   Okt12   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm      11425  0.0  0.0 225472  5900 ?        Sl   Okt12   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm      11479  0.0  0.0 559168  8616 tty1     Sl   Okt12   0:06 ibus-daemon --xim --panel disable
+gdm      11485  0.0  0.0 482132  5916 tty1     Sl   Okt12   0:00 /usr/libexec/ibus-dconf
+gdm      11487  0.0  0.0 613008 28688 tty1     Sl   Okt12   0:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm      11490  0.0  0.0 481980  5816 ?        Sl   Okt12   0:00 /usr/libexec/ibus-portal
+gdm      11538  0.0  0.0 470836  5560 ?        Ssl  Okt12   0:00 /usr/libexec/xdg-permission-store
+gdm      11619  0.0  0.0 763604 30440 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-xsettings
+gdm      11623  0.0  0.0 481160  6104 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-a11y-settings
+gdm      11628  0.0  0.0 612628 28076 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-clipboard
+gdm      11630  0.0  0.1 944252 35964 tty1     Sl+  Okt12   4:13 /usr/libexec/gsd-color
+gdm      11633  0.0  0.0 562040 13376 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-datetime
+gdm      11634  0.0  0.0 485288  6036 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-housekeeping
+gdm      11639  0.0  0.0 762376 27996 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-keyboard
+gdm      11641  0.0  0.0 1348656 31016 tty1    Sl+  Okt12   0:01 /usr/libexec/gsd-media-keys
+gdm      11645  0.0  0.0 404992  4788 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-mouse
+gdm      11650  0.0  0.1 1139028 37420 tty1    Sl+  Okt12   0:06 /usr/libexec/gsd-power
+gdm      11652  0.0  0.0 478060 10100 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-print-notifications
+gdm      11657  0.0  0.0 405008  4956 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-rfkill
+gdm      11659  0.0  0.0 478724  5000 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-screensaver-proxy
+gdm      11666  0.0  0.0 502896  6836 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-sharing
+gdm      11670  0.0  0.0 577472  9932 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-smartcard
+gdm      11673  0.0  0.0 545924  8884 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-sound
+gdm      11679  0.0  0.1 697796 33740 tty1     Sl+  Okt12   0:00 /usr/libexec/gsd-wacom
+gdm      11696  0.0  0.0 192316  4904 ?        Sl   Okt12   0:00 /usr/libexec/dconf-service
+gdm      11887  0.0  0.0 484384  6792 tty1     Sl   Okt12   0:00 /usr/libexec/ibus-engine-simple
+colord   11977  0.0  0.0 516120 11992 ?        Ssl  Okt12   0:01 /usr/libexec/colord
+root     13259  0.0  0.0 658636 12848 ?        Sl   Okt12   0:00 gdm-session-worker [pam/gdm-password]
+root     13265  0.0  0.0      0     0 ?        I<   Okt12   0:00 [iprt-VBoxWQueue]
+root     13266  0.0  0.0      0     0 ?        S    Okt12   0:00 [iprt-VBoxTscThr]
+groening 13491  0.0  0.0  88372  9004 ?        Ss   Okt12   0:01 /usr/lib/systemd/systemd --user
+groening 13496  0.0  0.0 296320  5344 ?        S    Okt12   0:00 (sd-pam)
+groening 13501  0.1  0.0 3233848 21344 ?       S<sl Okt12  50:18 /usr/bin/pulseaudio --daemonize=no
+groening 13506  0.0  0.1 533560 51504 ?        SLl  Okt12  16:54 /usr/bin/gnome-keyring-daemon --daemonize --login
+groening 13514  0.0  0.0  63616  7176 ?        Ssl  Okt12   3:15 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root     13517  0.0  0.0      0     0 ?        S<   Okt12   0:00 [krfcommd]
+groening 13520  0.0  0.0 518820 10568 tty2     Ssl+ Okt12   0:00 /usr/libexec/gdm-wayland-session gnome-session
+groening 13523  0.0  0.0 765616 14832 tty2     Sl+  Okt12   0:02 /usr/libexec/gnome-session-binary
+groening 13592  1.1  1.6 4508744 553632 tty2   SLl+ Okt12 331:06 /usr/bin/gnome-shell
+groening 13626  0.0  0.0 495652  7472 ?        Ssl  Okt12   0:00 /usr/libexec/gvfsd
+groening 13634  0.0  0.0 422752  5328 ?        Sl   Okt12   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+groening 13659  0.2  0.6 1056344 211344 tty2   Sl+  Okt12  78:24 /usr/bin/Xwayland :0 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+groening 13669  0.0  0.0 349684  6036 ?        Ssl  Okt12   0:00 /usr/libexec/at-spi-bus-launcher
+groening 13674  0.0  0.0  61100  4444 ?        Sl   Okt12   0:08 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+groening 13677  0.0  0.0 225472  7144 ?        Sl   Okt12   1:46 /usr/libexec/at-spi2-registryd --use-gnome-session
+groening 13693  0.0  0.0 559260  8780 tty2     Sl   Okt12   5:05 ibus-daemon --xim --panel disable
+groening 13697  0.0  0.0 482168  6820 tty2     Sl   Okt12   0:00 /usr/libexec/ibus-dconf
+groening 13698  0.0  0.0 624140 26828 tty2     Sl   Okt12   0:38 /usr/libexec/ibus-extension-gtk3
+groening 13700  0.0  0.0 613052 28612 tty2     Sl   Okt12   0:02 /usr/libexec/ibus-x11 --kill-daemon
+groening 13702  0.0  0.0 482112  7968 ?        Sl   Okt12   0:03 /usr/libexec/ibus-portal
+groening 13713  0.0  0.0 470836  5684 ?        Ssl  Okt12   0:00 /usr/libexec/xdg-permission-store
+groening 13717  0.0  0.1 1023556 45564 ?       Sl   Okt12   0:00 /usr/libexec/gnome-shell-calendar-server
+groening 13722  0.0  0.1 1790824 46200 ?       Ssl  Okt12   0:00 /usr/libexec/evolution-source-registry
+groening 13733  0.0  0.0 192880  5584 ?        Sl   Okt12   0:01 /usr/libexec/dconf-service
+groening 13745  0.0  0.0 525160  9356 ?        Ssl  Okt12   0:02 /usr/libexec/gvfs-udisks2-volume-monitor
+groening 13749  0.0  0.0 481948  6676 ?        Ssl  Okt12   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+groening 13752  0.0  0.1 985492 32812 ?        Sl   Okt12   0:00 /usr/libexec/goa-daemon
+groening 13756  0.0  0.0 477736  6340 ?        Ssl  Okt12   0:00 /usr/libexec/gvfs-goa-volume-monitor
+groening 13767  0.0  0.0 623928 13068 ?        Sl   Okt12   0:21 /usr/libexec/goa-identity-service
+groening 13769  0.0  0.0 582816  8260 ?        Ssl  Okt12   0:00 /usr/libexec/gvfs-afc-volume-monitor
+groening 13777  0.0  0.0 492452  6920 ?        Ssl  Okt12   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+groening 13785  0.0  0.1 1065344 43120 tty2    Sl+  Okt12   0:12 /usr/libexec/gsd-power
+groening 13786  0.0  0.0 554000 11940 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-print-notifications
+groening 13787  0.0  0.0 626336  6372 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-rfkill
+groening 13788  0.0  0.0 478724  5356 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-screensaver-proxy
+groening 13789  0.0  0.0 651416  9764 tty2     Sl+  Okt12   1:22 /usr/libexec/gsd-sharing
+groening 13790  0.0  0.0 577828 10076 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-smartcard
+groening 13796  0.0  0.0 545944  8684 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-sound
+groening 13804  0.0  0.0 763704 30452 tty2     Sl+  Okt12   0:04 /usr/libexec/gsd-xsettings
+groening 13809  0.0  0.1 697844 38620 tty2     Sl+  Okt12   0:03 /usr/libexec/gsd-wacom
+groening 13812  0.0  0.0 612652 28212 tty2     Sl+  Okt12   0:03 /usr/libexec/gsd-clipboard
+groening 13813  0.0  0.0 481180  6388 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-a11y-settings
+groening 13815  0.0  0.0 638248 13848 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-datetime
+groening 13819  0.0  0.1 1018532 41696 tty2    Sl+  Okt12   4:30 /usr/libexec/gsd-color
+groening 13820  0.0  0.0 762400 28096 tty2     Sl+  Okt12   0:03 /usr/libexec/gsd-keyboard
+groening 13821  0.0  0.0 568504  7660 tty2     Sl+  Okt12   0:41 /usr/libexec/gsd-housekeeping
+groening 13822  0.0  0.0 481188  6312 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-mouse
+groening 13824  0.0  0.1 1735900 32716 tty2    Sl+  Okt12   0:16 /usr/libexec/gsd-media-keys
+groening 13889  0.0  0.1 1253856 46016 ?       Ssl  Okt12   0:00 /usr/libexec/evolution-calendar-factory
+groening 13917  0.0  0.0 484680  7560 tty2     Sl   Okt12   1:34 /usr/libexec/ibus-engine-simple
+groening 13927  0.0  0.0 718048 13844 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-printer
+groening 13967  0.0  0.1 1239984 57384 tty2    Sl+  Okt12   0:01 /usr/libexec/evolution/evolution-alarm-notify
+groening 13976  0.0  0.0 278724  5812 tty2     Sl+  Okt12   0:00 /usr/libexec/gsd-disk-utility-notify
+groening 13981  0.0  0.8 1696500 294052 tty2   SLl+ Okt12   1:08 /usr/bin/gnome-software --gapplication-service
+groening 13989  0.0  0.0 739968 25392 tty2     Sl+  Okt12   0:01 abrt-applet
+groening 14008  0.0  0.1 1603104 48344 ?       Sl   Okt12   0:01 /usr/libexec/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx13889x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/13889/2
+groening 14046  0.0  0.1 1247460 46024 ?       Ssl  Okt12   0:00 /usr/libexec/evolution-addressbook-factory
+groening 14084  0.0  0.1 1730708 49352 ?       Sl   Okt12   0:00 /usr/libexec/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx14046x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/14046/2
+root     14173  0.0  0.0 347088 10860 ?        Sl   Okt12   0:01 /usr/sbin/abrt-dbus -t133
+root     14220  0.0  0.0 714628 20508 ?        Ssl  Okt12   0:17 /usr/libexec/fwupd/fwupd
+groening 14343  0.0  0.0 571944  7924 ?        Sl   Okt12   0:08 /usr/libexec/gvfsd-trash --spawner :1.16 /org/gtk/gvfs/exec_spaw/1
+groening 14352  0.0  0.0 643924 21356 ?        Ssl  Okt12   0:03 /usr/libexec/tracker-store
+groening 14378  0.0  0.0  98744  7452 ?        Ss   Okt12   0:00 /usr/libexec/bluetooth/obexd
+root     15927  0.0  0.0      0     0 ?        I<   14:26   0:01 [kworker/u17:7-k]
+root     16631  0.0  0.0      0     0 ?        I<   14:43   0:01 [kworker/u17:2-k]
+groening 16795  0.0  0.0 406764  7168 ?        Ssl  Okt16   0:00 /usr/libexec/gvfsd-metadata
+root     17406  0.0  0.0      0     0 ?        I    14:52   0:00 [kworker/7:0-eve]
+root     17996  0.0  0.0      0     0 ?        S<   Okt22   0:00 [loop2]
+root     18021  0.0  0.0 2178312 20808 ?       Ssl  Okt22   0:37 /usr/libexec/snapd/snapd
+groening 18045  0.0  0.0 720812 21860 ?        Sl   Okt12   0:00 /usr/libexec/gvfsd-http --spawner :1.16 /org/gtk/gvfs/exec_spaw/2
+root     18163  0.0  0.0      0     0 ?        S<   Okt22   0:00 [loop3]
+root     18693  0.0  0.0      0     0 ?        I<   15:05   0:00 [kworker/u17:3-k]
+groening 19115  4.7  1.0 1782584 327652 tty2   Sl+  15:07   3:26 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening 19625  0.0  0.0 214516  1784 ?        S    Okt24   0:00 /bin/bash /usr/bin/atom .
+groening 19628  0.3  0.8 2027960 285840 ?      Sl   Okt24  37:59 /usr/share/atom/atom --executed-from=/home/groening/Projects/SDA/key-mgnt --pid=19608 .
+groening 19635  0.0  0.1 638236 42956 ?        S    Okt24   0:00 /usr/share/atom/atom --type=zygote --no-sandbox
+groening 19684  0.0  0.2 711332 94192 ?        Sl   Okt24   0:34 /usr/share/atom/atom --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,9,27,70,84 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x5917 --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --service-request-channel-token=C5118E2BB87E9D86615A68DC79BA1D00
+root     20512  0.0  0.0      0     0 ?        I<   15:27   0:00 [kworker/u17:1-k]
+root     20744  0.0  0.0      0     0 ?        I    15:33   0:00 [kworker/5:0-eve]
+root     21134  0.0  0.0      0     0 ?        I<   15:39   0:00 [kworker/u17:6-k]
+groening 21369  1.7  0.3 1008476 120240 tty2   Sl+  15:41   0:40 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     21531  0.0  0.0      0     0 ?        I    15:43   0:00 [kworker/2:2-eve]
+groening 21693  1.7  0.5 1070052 165956 tty2   Sl+  15:46   0:35 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     21765  0.0  0.0      0     0 ?        I<   15:46   0:00 [kworker/u17:8-k]
+root     22178  0.0  0.0      0     0 ?        I    15:50   0:00 [kworker/0:3-rcu]
+groening 22233  3.2  0.6 1136816 207576 tty2   Sl+  15:51   0:57 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening 22257  0.1  0.3 1114616 104460 tty2   Sl+  15:51   0:03 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening 22443  7.7  0.7 1232480 248160 tty2   Sl+  15:54   2:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     22562  0.0  0.0      0     0 ?        I    15:54   0:00 [kworker/3:0-eve]
+root     22564  0.0  0.0      0     0 ?        I    15:55   0:00 [kworker/1:1-cgr]
+root     22572  0.0  0.0      0     0 ?        I    15:55   0:00 [kworker/6:1-eve]
+groening 22626  1.0  0.4 1046356 132492 tty2   Sl+  15:56   0:15 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening 22732  0.5  0.3 1016552 125424 tty2   Sl+  15:57   0:07 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     22767  0.0  0.0      0     0 ?        I    15:58   0:00 [kworker/4:1-mm_]
+root     22894  0.0  0.0      0     0 ?        I<   16:00   0:00 [kworker/u17:4-k]
+groening 22922  0.1  0.3 1006028 122092 tty2   Sl+  16:00   0:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     23074  0.0  0.0      0     0 ?        I    16:03   0:00 [kworker/2:0-eve]
+root     23186  0.0  0.0      0     0 ?        I    16:06   0:00 [kworker/u16:3-e]
+root     23190  0.0  0.0      0     0 ?        I    16:06   0:00 [kworker/3:1]
+root     23193  0.0  0.0      0     0 ?        I    16:06   0:00 [kworker/5:1-rcu]
+root     23217  0.0  0.0      0     0 ?        I    16:07   0:00 [kworker/4:2-cgr]
+groening 23248  1.9  0.3 1029792 130496 tty2   Sl+  16:07   0:15 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     23285  0.0  0.0      0     0 ?        I    16:07   0:00 [kworker/7:1-mm_]
+groening 23289  0.0  0.1 885516 49528 tty2     Sl+  16:07   0:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+root     23429  0.0  0.0      0     0 ?        I    16:08   0:00 [kworker/6:0-mm_]
+root     23448  0.0  0.0      0     0 ?        I    16:08   0:00 [kworker/0:2-eve]
+groening 23538  0.0  0.0 574012  8448 ?        Sl   Okt18   0:00 /usr/libexec/gvfsd-network --spawner :1.16 /org/gtk/gvfs/exec_spaw/4
+groening 23558  0.0  0.0 587176  8376 ?        Sl   Okt18   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.16 /org/gtk/gvfs/exec_spaw/7
+root     23586  0.0  0.0      0     0 ?        I<   16:10   0:00 [kworker/u17:0-k]
+root     23626  0.0  0.0      0     0 ?        I    16:11   0:00 [kworker/u16:1-i]
+root     23627  0.0  0.0      0     0 ?        I    16:11   0:00 [kworker/1:2-mm_]
+root     23707  0.0  0.0  11800  5692 ?        Sl   16:13   0:00 containerd-shim -namespace moby -workdir /var/lib/containerd/io.containerd.runtime.v1.linux/moby/5548a3c817998b19a06ee547429580eaae86e4e6c966e96fce50dc4fbb97d1e0 -address /run/containerd/containerd.sock -containerd-binary /usr/bin/containerd -runtime-root /var/run/docker/runtime-runc
+112      23725  0.0  0.0   4396   676 pts/0    Ss+  16:13   0:00 cat
+groening 23799  0.0  0.1 1111808 48664 pts/4   Sl+  16:13   0:00 docker exec -it -u 0 554 bash
+root     23826  0.0  0.0  20256  3236 pts/1    Ss+  16:13   0:00 bash
+root     23956  0.0  0.0      0     0 pts/1    Z    16:14   0:00 [ssh] <defunct>
+root     24021  0.0  0.0      0     0 ?        I    16:16   0:00 [kworker/5:2-mm_]
+root     24174  0.0  0.0      0     0 pts/1    Z    16:17   0:00 [ssh] <defunct>
+root     24188  0.0  0.0      0     0 ?        I    16:17   0:00 [kworker/2:1-mm_]
+root     24334  0.0  0.0      0     0 pts/1    Z    16:19   0:00 [ssh] <defunct>
+root     24447  0.0  0.0      0     0 ?        I    16:19   0:00 [kworker/0:0-eve]
+root     24448  0.0  0.0      0     0 ?        I    16:19   0:00 [kworker/3:2-mm_]
+root     24449  0.0  0.0      0     0 ?        I    16:20   0:00 [kworker/u16:0]
+groening 24455  0.0  0.0 250832  4064 pts/6    R+   16:20   0:00 ps -aux
+groening 25135  0.0  0.3 994344 118432 tty2    Sl+  Okt30   1:57 /opt/google/chrome/chrome --type=renderer --field-trial-handle=2900370144097600585,76323636548456
+groening 25359  0.0  0.2 892424 95552 tty2     Sl+  Okt24   2:41 kdiff3 --icon kdiff3 -caption 'KDiff3'
+root     25510  0.0  0.0      0     0 ?        S    10:10   0:00 [irq/129-mei_me]
+root     25773  0.0  0.0  80600  8776 ?        S    10:10   0:00 /sbin/dhclient -d -q -sf /usr/libexec/nm-dhcp-helper -pf /var/run/dhclient-wlp3s0.pid -lf /var/lib/NetworkManager/dhclient-bf69a3c9-1d1e-4552-a978-f68241b3081a-wlp3s0.lease -cf /var/lib/NetworkManager/dhclient-wlp3s0.conf wlp3s0
+groening 26376  0.1  0.3 869376 99616 ?        Ssl  Okt30   4:12 /usr/libexec/gnome-terminal-server
+groening 26630  0.0  0.0 218432  5808 pts/0    Ss   Okt30   0:00 bash
+groening 26746  0.0  0.0 256040 12012 pts/0    S+   Okt30   0:01 /usr/bin/mc -P /var/tmp/mc-groening/mc.pwd.26630
+groening 26748  0.0  0.0 218404  5780 pts/2    Ss+  Okt30   0:00 bash -rcfile .bashrc
+groening 28193  2.9  0.9 4016916 316124 tty2   Sl+  10:28  10:31 /snap/spotify/21/usr/share/spotify/spotify
+groening 28330  0.0  0.0 219356  6708 pts/4    Ss   Okt30   0:00 bash
+groening 28447  0.0  0.1 502416 50828 tty2     S+   10:29   0:00 /snap/spotify/21/usr/share/spotify/spotify --type=zygote --no-sandbox --log-file=/snap/spotify/21/usr/share/spotify/debug.log --log-severity=disable --product-version=Spotify/1.0.89.313 --lang=en
+groening 28463  0.6  0.2 1076612 86248 tty2    Sl+  10:29   2:08 /snap/spotify/21/usr/share/spotify/spotify --type=gpu-process --disable-features=ExtendedMouseButtons --no-sandbox --log-file=/snap/spotify/21/usr/share/spotify/debug.log --log-severity=disable --product-version=Spotify/1.0.89.313 --lang=en --gpu-preferences=KAAAAAAAAACAAACAAQAAAAAAAAAAAGAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --log-file=/snap/spotify/21/usr/share/spotify/debug.log --log-severity=disable --product-version=Spotify/1.0.89.313 --lang=en --service-request-channel-token=B782058888294E56164A1E679F1DC99C
+groening 28481  2.0  2.1 3099368 698000 tty2   Sl+  10:29   7:03 /snap/spotify/21/usr/share/spotify/spotify --type=renderer --no-sandbox --disable-features=ExtendedMouseButtons --service-pipe-token=99027D1B797CC69A2C06C74237DC8D56 --lang=de --log-file=/snap/spotify/21/usr/share/spotify/debug.log --log-severity=disable --product-version=Spotify/1.0.89.313 --disable-spell-checking --num-raster-threads=4 --enable-main-frame-before-activation --service-request-channel-token=99027D1B797CC69A2C06C74237DC8D56 --renderer-client-id=3 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+groening 29689  0.1  0.4 1871372 144856 ?      Ssl  Okt24  13:29 /usr/share/code/code .
+groening 29697  0.0  0.1 583872 43712 ?        S    Okt24   0:00 /usr/share/code/code --type=zygote --no-sandbox
+groening 29729  0.1  0.3 730556 103464 ?       Sl   Okt24  15:15 /usr/share/code/code --type=gpu-process --disable-features=ColorCorrectRendering --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,9,27,70,84 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x5917 --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --service-request-channel-token=013DABCFFDAAEF422AF0155E4105F24B
+groening 29841  0.0  0.3 1422328 130268 ?      Sl   Okt24   0:49 /usr/share/code/code --type=renderer --js-flags=--nolazy --disable-mojo-local-storage --no-sandbox --disable-features=ColorCorrectRendering --service-pipe-token=71F810D20F2BF6CA833C66D5E5052D8E --lang=de --app-path=/usr/share/code/resources/app --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=71F810D20F2BF6CA833C66D5E5052D8E --renderer-client-id=6 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+root     30044  0.0  0.2 2606376 81332 ?       Ssl  Okt15   7:59 /usr/bin/dockerd -H unix://
+root     30056  0.0  0.1 2429760 39008 ?       Ssl  Okt15   7:37 /usr/bin/containerd
+groening 31392  0.1  0.9 1689828 314240 ?      Sl   Okt24  23:45 /usr/share/code/code --type=renderer --js-flags=--nolazy --disable-mojo-local-storage --no-sandbox --disable-features=ColorCorrectRendering --service-pipe-token=5503A9EE4312FAA155073E1E32242DEA --lang=de --app-path=/usr/share/code/resources/app --node-integration=true --webview-tag=true --no-sandbox --background-color=#1e1e1e --disable-blink-features=Auxclick --context-id=2 --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=5503A9EE4312FAA155073E1E32242DEA --renderer-client-id=12 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+groening 31421  0.0  0.4 1107356 154572 ?      Sl   Okt24   0:31 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap --type=extensionHost
+groening 31426  0.0  0.2 985208 72932 ?        Sl   Okt24   0:07 /usr/share/code/code /usr/share/code/resources/app/out/bootstrap --type=watcherService
+groening 31459  0.0  0.1 946792 62996 ?        Sl   Okt24   0:20 /usr/share/code/code /home/groening/.vscode/extensions/peterjausovec.vscode-docker-0.3.1/node_modules/vscode-languageclient/lib/utils/electronForkStart /home/groening/.vscode/extensions/peterjausovec.vscode-docker-0.3.1/node_modules/dockerfile-language-server-nodejs/lib/server.js --node-ipc --node-ipc --clientProcessId=31421
+groening 32022  0.0  0.0 219228  6600 pts/5    Ss+  Okt24   0:01 /bin/bash
+groening 32533  0.0  0.0 277100  5788 ?        S    Okt12   0:00 /usr/libexec/gconfd-2
